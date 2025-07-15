@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @vipooshanb<br>👀 I’m interested in Software development & problem sloving<br>🌱 I’m currently learning Java Script<br>📫 How to reach me ...<br>😄 Pronouns: Vipi<br>⚡ Fun fact: Interested in Music
+👋 Hi, I’m @vipooshanb<br>👀 I’m interested in Software development & problem sloving<br>🌱 I’m currently learning Java Script<br>😄 Pronouns: Vipi<br>⚡ Fun fact: Interested in Music
 
 
 ## 🌐 Socials:
